@@ -1,0 +1,1304 @@
+Company;TypeName;Inches;Cpu;Ram;Memory;Gpu;OpSys;Weight;Price_euros
+Apple;Ultrabook;13.3;Intel Core i5 2.3GHz;8GB;128GB SSD;Intel Iris Plus Graphics 640;macOS;1.37kg;1339.69
+Apple;Ultrabook;13.3;Intel Core i5 1.8GHz;8GB;128GB Flash Storage;Intel HD Graphics 6000;macOS;1.34kg;898.94
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;No OS;1.86kg;575.00
+Apple;Ultrabook;15.4;Intel Core i7 2.7GHz;16GB;512GB SSD;AMD Radeon Pro 455;macOS;1.83kg;2537.45
+Apple;Ultrabook;13.3;Intel Core i5 3.1GHz;8GB;256GB SSD;Intel Iris Plus Graphics 650;macOS;1.37kg;1803.60
+Acer;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;500GB HDD;AMD Radeon R5;Windows 10;2.1kg;400.00
+Apple;Ultrabook;15.4;Intel Core i7 2.2GHz;16GB;256GB Flash Storage;Intel Iris Pro Graphics;Mac OS X;2.04kg;2139.97
+Apple;Ultrabook;13.3;Intel Core i5 1.8GHz;8GB;256GB Flash Storage;Intel HD Graphics 6000;macOS;1.34kg;1158.70
+Asus;Ultrabook;14;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Nvidia GeForce MX150;Windows 10;1.3kg;1495.00
+Acer;Ultrabook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.6kg;770.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;No OS;1.86kg;393.90
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;1.86kg;344.99
+Apple;Ultrabook;15.4;Intel Core i7 2.8GHz;16GB;256GB SSD;AMD Radeon Pro 555;macOS;1.83kg;2439.97
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;256GB SSD;AMD Radeon R5 M430;Windows 10;2.2kg;498.90
+Apple;Ultrabook;12;Intel Core M m3 1.2GHz;8GB;256GB SSD;Intel HD Graphics 615;macOS;0.92kg;1262.40
+Apple;Ultrabook;13.3;Intel Core i5 2.3GHz;8GB;256GB SSD;Intel Iris Plus Graphics 640;macOS;1.37kg;1518.55
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;AMD Radeon R5 M430;Windows 10;2.2kg;745.00
+Apple;Ultrabook;15.4;Intel Core i7 2.9GHz;16GB;512GB SSD;AMD Radeon Pro 560;macOS;1.83kg;2858.00
+Lenovo;Notebook;15.6;Intel Core i3 7100U 2.4GHz;8GB;1TB HDD;Nvidia GeForce 940MX;No OS;2.2kg;499.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD;Intel UHD Graphics 620;Windows 10;1.22kg;979.00
+Asus;Netbook;11.6;Intel Atom x5-Z8350 1.44GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;0.98kg;191.90
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;999.00
+HP;Notebook;15.6;AMD E-Series E2-9000e 1.5GHz;4GB;500GB HDD;AMD Radeon R2;No OS;1.86kg;258.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.62kg;819.00
+HP;Ultrabook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.91kg;659.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.3kg;418.64
+Apple;Ultrabook;13.3;Intel Core i5 1.6GHz;8GB;128GB Flash Storage;Intel HD Graphics 6000;Mac OS X;1.35kg;1099.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;800.00
+Dell;Ultrabook;15.6;Intel Core i7 8650U 1.9GHz;8GB;256GB SSD +  256GB SSD;Intel UHD Graphics 620;Windows 10;1.88kg;1298.00
+HP;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.5kg;896.00
+Chuwi;Notebook;15.6;Intel Atom x5-Z8300 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics;Windows 10;1.89kg;244.99
+Asus;Notebook;14;AMD E-Series E2-6110 1.5GHz;2GB;32GB Flash Storage;AMD Radeon R2;Windows 10;1.65kg;199.00
+HP;Notebook;17.3;AMD A6-Series 9220 2.5GHz;4GB;500GB HDD;AMD Radeon 530;Windows 10;2.71kg;439.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.2kg;1869.00
+Apple;Ultrabook;13.3;Intel Core i5 1.6GHz;8GB;256GB Flash Storage;Intel HD Graphics 6000;Mac OS X;1.35kg;998.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;64GB Flash Storage;Intel HD Graphics 500;Windows 10;1.44kg;249.00
+Acer;Notebook;15.6;Intel Core i3 7130U 2.7GHz;4GB;1TB HDD;Intel HD Graphics 620;Linux;2.1kg;367.00
+Dell;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.8kg;979.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.86kg;488.69
+HP;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce 930MX ;Windows 10;2.1kg;879.00
+Asus;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 620;Linux;2kg;389.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.65kg;1499.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Linux;2.3kg;522.99
+Acer;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.2kg;682.00
+Dell;2 in 1 Convertible;17.3;Intel Core i5 8250U 1.6GHz;12GB;1TB HDD;Nvidia GeForce 150MX;Windows 10;2.77kg;999.00
+Apple;Ultrabook;13.3;Intel Core i5 2.0GHz;8GB;256GB SSD;Intel Iris Graphics 540;macOS;1.37kg;1419.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;No OS;2.2kg;369.00
+Asus;Gaming;17.3;AMD Ryzen 1700 3GHz;8GB;256GB SSD +  1TB HDD;AMD Radeon RX 580;Windows 10;3.2kg;1299.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;AMD Radeon R5 M430;Windows 10;2.3kg;639.00
+Asus;Notebook;17.3;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.8kg;466.00
+Lenovo;2 in 1 Convertible;10.1;Intel Atom x5-Z8550 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics 400;Android;0.69kg;319.00
+Acer;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce MX150;Windows 10;2.2kg;841.00
+HP;Notebook;15.6;AMD A6-Series 9220 2.5GHz;4GB;256GB SSD;AMD Radeon R4 Graphics;Windows 10;1.86kg;398.49
+HP;Notebook;13.3;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.49kg;1103.00
+Acer;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.4kg;384.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 520;Windows 10;2.13kg;767.80
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.91kg;439.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2kg;586.19
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  2TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.43kg;2449.00
+Asus;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;256GB SSD;Intel HD Graphics 520;Linux;2kg;415.00
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.8kg;1299.00
+Dell;Ultrabook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.7kg;879.00
+Lenovo;Notebook;14;Intel Core i3 7130U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;No OS;1.7kg;599.00
+Asus;Notebook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.4kg;941.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.86kg;690.00
+Asus;Ultrabook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;1.8kg;1983.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;AMD Radeon 520;Windows 10;1.86kg;438.69
+HP;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB SSD;Intel HD Graphics 400;Windows 10;1.44kg;229.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.9kg;549.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;12GB;1TB HDD;Nvidia GeForce GTX 1050 Ti;Linux;3kg;949.00
+Microsoft;Ultrabook;13.5;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10 S;1.252kg;1089.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;1.4kg;955.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;870.00
+MSI;Gaming;17.3;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.7kg;1095.00
+Acer;Notebook;14;Intel Core i3 6006U 2GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.1kg;389.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;949.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;2TB HDD;Intel HD Graphics 620;No OS;2.2kg;519.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;Intel UHD Graphics 620;Windows 10;2.02kg;855.00
+Acer;Notebook;15.6;Intel Core i3 7130U 2.7GHz;4GB;1TB HDD;Nvidia GeForce MX130;Windows 10;2.2kg;530.00
+HP;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 930MX;Windows 10;2.5kg;977.00
+Dell;Ultrabook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.88kg;1096.16
+Apple;Ultrabook;12;Intel Core i5 1.3GHz;8GB;512GB SSD;Intel HD Graphics 615;macOS;0.92kg;1510.00
+HP;Notebook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.63kg;860.00
+Lenovo;Notebook;15.6;AMD A6-Series 9220 2.5GHz;4GB;128GB SSD;AMD R4 Graphics;Windows 10;2.2kg;399.00
+Acer;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;1TB HDD;AMD Radeon R5;Windows 10;2.1kg;395.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.65kg;1349.00
+HP;Ultrabook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 940MX;Windows 10;1.83kg;699.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.96kg;598.99
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.2kg;1449.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.21kg;1649.00
+Asus;Gaming;15.6;AMD FX 9830P 3GHz;8GB;1TB HDD;AMD Radeon RX 560;Windows 10;2.45kg;699.00
+Acer;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Nvidia GeForce MX150;Windows 10;2.2kg;689.00
+HP;Notebook;13.3;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.49kg;1197.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1060;Windows 10;2.65kg;1195.00
+Asus;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.25kg;1049.00
+Acer;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.5kg;847.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R5 M430;Linux;2.2kg;599.90
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;256GB SSD;AMD Radeon R5 M430;Linux;2.2kg;485.00
+Asus;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;256GB SSD;Nvidia GeForce 920M;Windows 10;2kg;577.00
+HP;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;12GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.62kg;1249.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;1.91kg;719.00
+HP;Notebook;15.6;AMD E-Series E2-9000e 1.5GHz;4GB;500GB HDD;AMD Radeon R2;Windows 10;2.1kg;349.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;AMD Radeon 520;Linux;2.2kg;647.00
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce MX150;Windows 10;1.38kg;1119.00
+Microsoft;Ultrabook;13.5;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10 S;1.252kg;1340.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;6GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.58kg;659.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;1.85kg;414.90
+Asus;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.3kg;1193.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.2kg;1299.00
+Lenovo;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.58kg;1480.00
+Asus;Ultrabook;15.6;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce MX150;Windows 10;1.5kg;1262.00
+Dell;Ultrabook;13.3;Intel Core i7 7560U 2.4GHz;8GB;256GB SSD;Intel Iris Plus Graphics 640;Windows 10;1.23kg;1379.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;1399.00
+HP;Notebook;14;Intel Core i5 8250U 1.6GHz;4GB;500GB HDD;Intel UHD Graphics 620;Windows 10;1.63kg;722.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.21kg;1629.00
+HP;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.26kg;1398.99
+HP;Notebook;14;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.63kg;1084.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.16kg;1130.33
+Asus;Notebook;17.3;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2kg;564.00
+Asus;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.7kg;1118.00
+Acer;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.1kg;479.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  2TB HDD;Nvidia GeForce GTX 1070;Windows 10;1.8kg;2241.50
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 940MX;No OS;2.2kg;629.00
+HP;Notebook;17.3;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Nvidia GeForce 930MX ;Windows 10;2.5kg;1271.00
+Acer;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;256GB SSD;AMD Radeon R5;Windows 10;2.1kg;451.00
+HP;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics 400;No OS;1.86kg;259.00
+HP;Notebook;14;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;1.63kg;812.00
+Asus;Notebook;14;AMD E-Series 6110 1.5GHz;4GB;64GB SSD;AMD Radeon R2;Windows 10 S;1.65kg;277.99
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.8kg;1396.00
+HP;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.5kg;928.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.36kg;638.99
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M430;Windows 10;2.2kg;449.00
+Acer;Ultrabook;14;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.6kg;884.00
+Acer;Notebook;15.6;Intel Core i3 7130U 2.7GHz;4GB;256GB SSD;Nvidia GeForce MX130;Windows 10;2.2kg;572.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.05kg;598.00
+HP;Notebook;14;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.63kg;988.00
+Lenovo;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;No OS;1.9kg;252.36
+Asus;Gaming;17.3;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3kg;938.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Nvidia GeForce 920MX;No OS;2.2kg;499.00
+HP;Notebook;13.3;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;699.00
+Acer;Notebook;17.3;Intel Core i3 7130U 2.7GHz;4GB;1TB HDD;Nvidia GeForce MX130;Windows 10;3kg;655.00
+Lenovo;Notebook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;AMD Radeon RX 550;Windows 10;1.75kg;1116.02
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050M;No OS;2.4kg;869.00
+Toshiba;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.1kg;602.00
+HP;Notebook;15.6;AMD A6-Series 9220 2.5GHz;4GB;256GB SSD;AMD Radeon R4 Graphics;Windows 10;1.86kg;369.00
+Asus;Ultrabook;14;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.25kg;1099.00
+HP;Ultrabook;12.5;Intel Core M 6Y75 1.2GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;0.97kg;2014.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;Windows 10;2kg;344.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.9kg;2029.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.1kg;447.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.56kg;1249.26
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1.0TB Hybrid;Nvidia GeForce GTX 1050;Windows 10;2.62kg;899.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;498.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.8kg;1890.00
+HP;Ultrabook;14;Intel Core i5 7500U 2.7GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.48kg;1082.00
+HP;Notebook;15.6;Intel Core i5 8250U 1.6GHz;6GB;256GB SSD;AMD Radeon 520;Windows 10;1.91kg;619.00
+Lenovo;2 in 1 Convertible;14;Intel Core i3 7100U 2.4GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.74kg;629.00
+Asus;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1315.00
+Dell;2 in 1 Convertible;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.56kg;1049.00
+Toshiba;Notebook;15.6;Intel Core i3 6006U 2.2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.1kg;447.00
+Asus;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;1TB HDD;AMD Radeon R5 M420;Windows 10;2.03kg;403.00
+Acer;Notebook;17.3;Intel Core i5 8250U 1.6GHz;4GB;256GB SSD;Nvidia GeForce MX150;Windows 10;3kg;805.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;AMD Radeon 520;Windows 10;2.13kg;728.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1079.00
+Acer;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;Windows 10;2.1kg;348.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.4kg;1799.00
+Acer;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;Windows 10;2.1kg;363.51
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.56kg;1060.49
+Acer;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce MX150;Windows 10;3kg;854.00
+HP;Notebook;13.3;Intel Core i5 8250U 1.6GHz;4GB;500GB HDD;Intel UHD Graphics 620;Windows 10;1.49kg;754.00
+Huawei;Ultrabook;13;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;1349.00
+HP;Notebook;17.3;Intel Core i5 7200U 2.5GHz;6GB;2TB HDD;AMD Radeon 520;Windows 10;2.71kg;699.00
+Lenovo;Notebook;15.6;AMD A6-Series 9220 2.9GHz;4GB;500GB HDD;AMD Radeon R4 Graphics;No OS;2.2kg;309.00
+Toshiba;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2kg;489.00
+HP;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;2.5kg;923.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;459.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.1kg;449.00
+MSI;Gaming;18.4;Intel Core i7 6920HQ 2.9GHz;32GB;512GB SSD +  1TB HDD;Nvidia GTX 980 SLI;Windows 10;4.4kg;2799.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD +  1TB HDD;AMD R17M-M1-70;Windows 10;1.90kg;813.00
+HP;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.29kg;1499.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  2TB HDD;AMD Radeon 530;Linux;2.02kg;1049.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.23kg;1399.00
+Lenovo;2 in 1 Convertible;13.9;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.4kg;1849.00
+Toshiba;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;2.0kg;793.00
+Xiaomi;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce MX150;No OS;1.95kg;1199.00
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Nvidia GeForce 150MX;Windows 10;2.77kg;1549.00
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;2397.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;No OS;2.4kg;779.00
+Acer;Ultrabook;13.3;Intel Core i5 7Y54 1.2GHz;8GB;256GB SSD;Intel HD Graphics 615;Windows 10;1.12kg;989.00
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.8kg;1085.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 7500U 2.7GHz;16GB;1TB SSD;Intel HD Graphics 620;Windows 10;1.42kg;2824.00
+Vero;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.3kg;260.00
+Xiaomi;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce MX150;No OS;1.3kg;999.90
+Lenovo;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce MX150;No OS;2.8kg;698.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;1.62kg;839.00
+HP;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.5kg;914.00
+Razer;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;32GB;1TB SSD;Nvidia GeForce GTX 1080;Windows 10;3.49kg;6099.00
+HP;Notebook;13.3;Intel Core i5 8250U 1.6GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.49kg;959.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3.35kg;1379.00
+HP;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce 930MX ;Windows 10;2.5kg;1045.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.65kg;1845.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.1kg;493.00
+Acer;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;2.23kg;742.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.2kg;1749.00
+Dell;Workstation;15.6;Intel Xeon E3-1505M V6 3GHz;16GB;256GB SSD +  1TB HDD;Nvidia Quadro M1200;Windows 10;2.8kg;3055.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1060;No OS;2.4kg;1398.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;439.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.21kg;1949.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.2kg;1449.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.2kg;597.00
+Acer;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Linux;2.4kg;779.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.9kg;1407.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;2.1kg;349.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;No OS;2.2kg;549.00
+Huawei;Ultrabook;13;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;1499.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;1.4kg;931.88
+Lenovo;Notebook;17.3;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 940MX;No OS;2.8kg;589.00
+HP;Notebook;14;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.63kg;1031.00
+Dell;Ultrabook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.6kg;1149.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.62kg;1279.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;AMD Radeon 520;Linux;2.2kg;677.35
+Lenovo;2 in 1 Convertible;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.74kg;899.00
+Toshiba;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1363.00
+HP;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;2.1kg;794.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;4.42kg;2456.34
+Acer;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2.2kg;832.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;16GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.3kg;859.01
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 920MX ;Windows 10;2kg;769.00
+Asus;Notebook;17.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD +  500GB HDD;Nvidia GeForce GTX 950M;Windows 10;2.69kg;891.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD FirePro W4190M ;Windows 10;1.9kg;1269.00
+Asus;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.37kg;398.99
+HP;Notebook;15.6;AMD E-Series 9000e 1.5GHz;4GB;500GB HDD;AMD Radeon R2;Windows 10;2.1kg;330.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.2kg;1499.00
+Dell;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;859.00
+Acer;2 in 1 Convertible;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.6kg;689.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;AMD Radeon R7 M445;Linux;2.36kg;899.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Linux;2.1kg;390.00
+Asus;Notebook;15.6;AMD A10-Series A10-9620P 2.5GHz;4GB;128GB SSD +  1TB HDD;AMD Radeon R5 M430;Windows 10;2.2kg;575.00
+Asus;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;32GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1080;Windows 10;4.7kg;3890.00
+Acer;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;846.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.2kg;589.00
+Asus;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 150MX;Windows 10;2.1kg;1145.00
+Asus;Notebook;17.3;Intel Core i7 7500U 2.7GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 950M;No OS;2.69kg;889.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.56kg;879.00
+Lenovo;2 in 1 Convertible;13.9;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.38kg;1079.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.2kg;985.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.04kg;559.00
+Asus;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;16GB;256GB SSD;Nvidia GeForce GTX 1080;Windows 10;3.6kg;2999.00
+HP;Notebook;13.3;Intel Core i5 8250U 1.6GHz;4GB;500GB HDD;Intel UHD Graphics 620;Windows 10;1.49kg;675.00
+Apple;Ultrabook;13.3;Intel Core i5 3.1GHz;8GB;512GB SSD;Intel Iris Plus Graphics 650;macOS;1.37kg;2040.00
+Dell;2 in 1 Convertible;15.6;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;2.08kg;819.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;4.3kg;1799.00
+Asus;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;1TB HDD;AMD Radeon R5 M420;Windows 10;1.68kg;469.00
+Lenovo;2 in 1 Convertible;13.9;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.37kg;1849.00
+Acer;Notebook;17.3;Intel Core i3 7130U 2.7GHz;4GB;256GB SSD;Nvidia GeForce MX130;Windows 10;3kg;702.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.41kg;949.00
+HP;Notebook;15.6;AMD A6-Series A6-9220 2.5GHz;8GB;128GB SSD;AMD Radeon R4 Graphics;Windows 10;1.91kg;445.90
+HP;Notebook;17.3;Intel Core i7 8550U 1.8GHz;16GB;1TB HDD;Nvidia GeForce MX150;Windows 10;2.9kg;1059.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.14kg;2499.00
+Lenovo;2 in 1 Convertible;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;512GB SSD;Nvidia GeForce GTX 1050M;Windows 10;2kg;1699.00
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.8kg;1142.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;256GB SSD;Intel HD Graphics 520;No OS;2.2kg;444.00
+HP;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.1kg;722.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.18kg;657.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;AMD Radeon R5 M430;Windows 10;2.24kg;565.00
+Dell;2 in 1 Convertible;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.67kg;799.00
+Asus;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD +  512GB SSD;Intel UHD Graphics 620;Windows 10;1.1kg;1499.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;No OS;2.2kg;467.00
+HP;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Nvidia GeForce 930MX ;Windows 10;2.5kg;1018.00
+Lenovo;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.05kg;880.00
+Apple;Ultrabook;13.3;Intel Core i5 2.9GHz;8GB;512GB SSD;Intel Iris Graphics 550;macOS;1.37kg;1958.90
+Asus;Gaming;17.3;AMD Ryzen 1700 3GHz;16GB;256GB SSD +  1TB HDD;AMD Radeon RX 580;Windows 10;3.2kg;1549.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 520;Linux;2.14kg;735.07
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6600U 2.6GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.36kg;2499.00
+Toshiba;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;500GB HDD;Nvidia GeForce 930M;Windows 10;2.2kg;812.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;12GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;713.07
+Dell;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Linux;2.8kg;1099.00
+Acer;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Nvidia GeForce MX130;Windows 10;2.2kg;745.00
+Lenovo;Notebook;17.3;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.8kg;489.00
+Lenovo;Notebook;17.3;Intel Core i7 8550U 1.8GHz;8GB;2TB HDD;Nvidia GeForce MX150;No OS;2.8kg;849.00
+Lenovo;Notebook;17.3;Intel Core i7 7500U 2.7GHz;6GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.8kg;859.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;AMD Radeon R5 M430;Linux;2.25kg;428.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;829.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;6GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.2kg;579.00
+Acer;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Nvidia GeForce MX150;Windows 10;3kg;951.00
+Acer;Notebook;15.6;Intel Core i7 7500U 2.7GHz;12GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.15kg;659.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 630;Windows 10;1.95kg;1097.00
+Asus;Ultrabook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.7kg;977.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1179.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 940MX;No OS;2.2kg;659.01
+Acer;Notebook;15.6;Intel Celeron Dual Core 3205U 1.5GHz;2GB;16GB SSD;Intel HD Graphics;Chrome OS;2.19kg;199.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3kg;1187.00
+HP;Notebook;17.3;Intel Core i3 6006U 2GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.54kg;489.00
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2kg;1829.00
+Lenovo;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.05kg;739.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.2kg;1299.00
+Acer;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050 Ti;Linux;2.5kg;979.00
+Dell;Workstation;17.3;Intel Core i7 7820HQ 2.9GHz;16GB;256GB SSD;Nvidia Quadro M1200;Windows 10;3.42kg;2884.86
+Lenovo;Notebook;15.6;AMD A10-Series 9600P 2.4GHz;6GB;1TB HDD;AMD Radeon R5 430;Windows 10;2.4kg;499.00
+Asus;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Nvidia GeForce 940MX;Windows 10;1.63kg;1468.00
+Asus;Notebook;14;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.3kg;509.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.9kg;2122.00
+Lenovo;Notebook;17.3;Intel Core i5 7200U 2.5GHz;6GB;1TB HDD;Nvidia GeForce GTX 940M;Windows 10;2.8kg;649.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;2TB HDD;Nvidia GeForce 940MX;No OS;2.2kg;549.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1265.00
+Lenovo;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;No OS;2.2kg;359.99
+HP;2 in 1 Convertible;13.3;Intel Core i7 7600U 2.8GHz;16GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.28kg;1975.00
+Toshiba;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 930M;Windows 10;2.2kg;1043.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.3kg;819.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;1.86kg;469.00
+Lenovo;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;999.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;16GB;1TB SSD;Intel UHD Graphics 620;Windows 10;1.21kg;2499.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.8kg;2099.00
+Acer;Notebook;15.6;AMD A8-Series 7410 2.2GHz;8GB;256GB SSD;AMD Radeon R5;Windows 10;2.23kg;469.00
+Asus;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 1.1GHz;2GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.1kg;275.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.33kg;844.00
+HP;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;16GB;1TB SSD;Intel UHD Graphics 620;Windows 10;1.29kg;2449.00
+Lenovo;Notebook;13.3;Intel Celeron Dual Core 3855U 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 510;Chrome OS;1.45kg;459.90
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;980.00
+Acer;Notebook;11.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;128GB Flash Storage;Intel HD Graphics 405;Windows 10;1.4kg;485.00
+HP;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.48kg;1292.00
+Lenovo;Notebook;17.3;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.79kg;589.00
+Asus;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2kg;1094.00
+HP;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;2.1kg;902.00
+Acer;Notebook;15.6;AMD A12-Series 9720P 2.7GHz;8GB;256GB SSD;AMD Radeon RX 540;Windows 10;2.2kg;659.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.44kg;292.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.23kg;549.00
+Asus;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.7kg;1049.90
+HP;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.26kg;1335.00
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;32GB;1TB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;2639.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.7kg;1199.00
+Toshiba;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.0kg;943.00
+Asus;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD +  1TB HDD;Intel HD Graphics 620;Windows 10;2kg;1334.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;1.85kg;449.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;999.00
+HP;Notebook;14;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.48kg;1268.00
+Dell;Ultrabook;15.6;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;1.9kg;1049.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.84kg;1144.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;Linux;2kg;274.99
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2kg;1142.75
+Dell;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Linux;2.2kg;274.90
+Lenovo;Notebook;15.6;AMD A12-Series 9720P 3.6GHz;12GB;2TB HDD;AMD Radeon 530;Windows 10;2.2kg;899.00
+HP;Notebook;15.6;Intel Core i3 7100U 2.4GHz;8GB;1TB HDD;Nvidia GeForce 930MX ;Windows 10;2.1kg;716.00
+Lenovo;2 in 1 Convertible;13.9;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.4kg;2099.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.2kg;1579.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  2TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.4kg;1129.00
+HP;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.44kg;279.00
+Dell;Ultrabook;15.6;Intel Core i7 8650U 1.9GHz;16GB;512GB SSD +  256GB SSD;Intel UHD Graphics 620;Windows 10;1.88kg;1607.96
+Asus;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.5kg;375.00
+Dell;Ultrabook;15.6;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;AMD Radeon 530;Windows 10;1.9kg;663.00
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;2027.42
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.84kg;1304.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.7kg;1409.00
+HP;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M1200;Windows 10;2.6kg;1738.27
+Toshiba;Notebook;15.6;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Nvidia GeForce 930M;Windows 10;2.4kg;1403.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.02kg;970.90
+Lenovo;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;No OS;2.2kg;321.99
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.65kg;999.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;2TB HDD;Intel HD Graphics 620;Windows 10;2.36kg;557.37
+Dell;Notebook;14;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1427.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.86kg;439.00
+Asus;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2kg;945.00
+Lenovo;Notebook;17.3;Intel Core i5 7200U 2.5GHz;6GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 940MX;Windows 10;2.8kg;719.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.86kg;639.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;256GB SSD;Nvidia GeForce 920MX ;No OS;2.2kg;499.00
+HP;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;8GB;2TB HDD;Intel HD Graphics 405;Windows 10;2.04kg;389.00
+Dell;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.8kg;1085.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;No OS;2.4kg;809.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;AMD Radeon R7 M445;Windows 10;2.33kg;899.00
+HP;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1750.00
+Asus;2 in 1 Convertible;15.6;Intel Core i7 7500U 2.7GHz;12GB;512GB SSD +  2TB HDD;Nvidia GeForce GT 940MX;Windows 10;2.26kg;1099.00
+Acer;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;128GB SSD;AMD Radeon R5;Windows 10;2.1kg;426.00
+Asus;Gaming;17.3;AMD Ryzen 1700 3GHz;16GB;256GB SSD +  1TB HDD;AMD Radeon RX 580;Windows 10;3.25kg;2199.00
+Lenovo;Notebook;17.3;AMD A8-Series 7410 2.2GHz;4GB;128GB SSD;AMD Radeon R5;Windows 10;2.6kg;489.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.62kg;869.01
+HP;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;256GB SSD;AMD Radeon R5;Windows 10;1.91kg;488.99
+Lenovo;Netbook;11.6;Intel Celeron Quad Core N3450 1.1GHz;4GB;128GB SSD;Intel HD Graphics 500;Windows 10;1.59kg;553.00
+Dell;Notebook;15.6;Intel Celeron Dual Core N3060 1.60GHz;4GB;500GB HDD;Intel HD Graphics 400;Windows 10;1.8kg;309.00
+Asus;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.5kg;286.00
+Acer;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Linux;2.4kg;846.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3.35kg;1191.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;No OS;1.85kg;403.50
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.3kg;1655.00
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.5kg;1099.00
+Asus;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1748.90
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.13kg;2282.00
+Lenovo;Notebook;13.3;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.5kg;549.00
+Dell;Workstation;15.6;Intel Core i5 6440HQ 2.6GHz;8GB;500GB HDD;AMD FirePro W5130M;Windows 10;2.23kg;1369.00
+Dell;Workstation;15.6;Intel Core i7 6820HQ 2.7GHz;8GB;256GB SSD;Nvidia Quadro M1200;Windows 10;2kg;2135.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.42kg;2509.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3kg;1039.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;3kg;1591.00
+Acer;Notebook;15.6;Intel Core i5 8250U 1.6GHz;12GB;1TB HDD;Nvidia GeForce MX130;Windows 10;2.2kg;693.99
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.7kg;1349.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;AMD Radeon R7 M445;Linux;2.33kg;778.87
+HP;Ultrabook;15.6;AMD A9-Series 9420 3GHz;4GB;256GB SSD;AMD Radeon 520;Windows 10;1.91kg;499.00
+Lenovo;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon RX 550;Windows 10;2.1kg;1229.56
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;938.00
+Dell;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M1200;Windows 10;1.78kg;2712.00
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;16GB;1TB SSD;Intel HD Graphics 620;Windows 10;1.13kg;2625.00
+Lenovo;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;Windows 10;2.2kg;306.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.9kg;1529.00
+Lenovo;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD +  1TB HDD;AMD Radeon RX 550;Windows 10;2.1kg;1144.50
+Acer;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Linux;2.5kg;879.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.8kg;2249.00
+Asus;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.10kg;1873.00
+Toshiba;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1747.00
+Dell;Ultrabook;14;Intel Core i7 7600U 2.8GHz;8GB;512GB SSD;Intel HD Graphics;Windows 10;1.36kg;1680.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.2kg;409.00
+Lenovo;Notebook;11.6;Intel Celeron Dual Core N3350 1.1GHz;2GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.15kg;304.45
+Lenovo;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;512GB SSD;Nvidia Quadro M1200;Windows 10;2.67kg;1925.00
+Lenovo;Ultrabook;14;Intel Core i7 7700HQ 2.8GHz;8GB;512GB SSD;Nvidia GeForce GT 940MX;Windows 10;1.7kg;1943.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon 520;Windows 10;2.1kg;469.00
+Acer;2 in 1 Convertible;13.3;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.6kg;789.01
+Asus;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.27kg;928.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;AMD Radeon R5 M430;Linux;2.3kg;598.90
+Dell;Notebook;13.3;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.65kg;689.00
+HP;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.43kg;1500.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.14kg;539.95
+Lenovo;Ultrabook;14;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon RX 550;Windows 10;1.75kg;1215.38
+Lenovo;2 in 1 Convertible;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050;Windows 10;2kg;1899.00
+Chuwi;Notebook;12.3;Intel Celeron Quad Core N3450 1.1GHz;6GB;64GB Flash Storage;Intel HD Graphics 500;Windows 10;1.4kg;449.00
+HP;Notebook;15.6;Intel Core i7 7820HQ 2.9GHz;8GB;256GB SSD;Intel HD Graphics 630;Windows 10;2.31kg;1427.00
+Asus;Notebook;15.6;Intel Core i3 7100U 2.4GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Linux;2.3kg;597.00
+Dell;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;2799.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.62kg;1159.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.02kg;1142.40
+Dell;Ultrabook;14;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Linux;1.6kg;1099.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;12GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;3.35kg;1999.00
+Mediacom;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB SSD;Intel HD Graphics 500;Windows 10;1.16kg;299.00
+Samsung;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.15kg;269.00
+Lenovo;Notebook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.4kg;1010.00
+Lenovo;Notebook;14;Intel Core i3 7130U 2.7GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.7kg;599.00
+Lenovo;Workstation;15.6;Intel Core i7 7600U 2.8GHz;16GB;512GB SSD;Nvidia GeForce 940MX;Windows 10;2.3kg;2445.00
+Lenovo;Notebook;15.6;Intel Core i7 7820HQ 2.9GHz;16GB;512GB SSD;Nvidia Quadro M2200M;Windows 10;2.5kg;2449.00
+Asus;Gaming;17.3;AMD Ryzen 1600 3.2GHz;8GB;256GB SSD +  1TB HDD;AMD Radeon RX 580;Windows 10;3.2kg;1695.00
+HP;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics 400;Windows 10;2.1kg;347.00
+Google;Ultrabook;12.3;Intel Core i7 7Y75 1.3GHz;16GB;512GB SSD;Intel HD Graphics 615;Chrome OS;1.1kg;2199.00
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;24GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;2382.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Linux;2kg;559.00
+Lenovo;Notebook;17.3;AMD A6-Series 9220 2.5GHz;8GB;1TB HDD;AMD Radeon R4;Windows 10;2.8kg;519.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;749.00
+Lenovo;Ultrabook;12.5;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1429.00
+Lenovo;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;128GB SSD;Intel HD Graphics 505;Windows 10;2.2kg;349.00
+HP;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1099.00
+Dell;Notebook;14;Intel Core i5 7440HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.64kg;1179.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Linux;2.4kg;441.80
+Dell;Workstation;15.6;Intel Xeon E3-1505M V6 3GHz;8GB;64GB Flash Storage +  1TB HDD;Nvidia Quadro M620;Windows 10;2.23kg;1993.00
+MSI;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1027.74
+Microsoft;Ultrabook;13.5;Intel Core i7 7660U 2.5GHz;16GB;512GB SSD;Intel Iris Plus Graphics 640;Windows 10 S;1.25kg;2589.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.91kg;589.00
+Dell;Workstation;15.6;Intel Core i7 6820HQ 2.7GHz;16GB;256GB SSD;Nvidia Quadro M620;Windows 10;2.17kg;1975.00
+HP;Workstation;15.6;Intel Core i7 7820HQ 2.9GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;2.31kg;1534.00
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.65kg;1345.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.36kg;979.00
+Dell;2 in 1 Convertible;11.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;500GB HDD;Intel HD Graphics 405;Windows 10;1.47kg;479.00
+Dell;Notebook;17.3;Intel Core i7 7700HQ 2.7GHz;8GB;1TB HDD;Nvidia GeForce GTX 1060;Windows 10;4.42kg;2046.00
+Microsoft;Ultrabook;13.5;Intel Core M m3-7Y30 2.2GHz;4GB;128GB SSD;Intel HD Graphics 615;Windows 10 S;1.252kg;989.00
+Microsoft;Ultrabook;13.5;Intel Core i7 7660U 2.5GHz;8GB;256GB SSD;Intel Iris Plus Graphics 640;Windows 10 S;1.25kg;1799.00
+HP;Notebook;17.3;Intel Core i3 6006U 2GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.5kg;639.90
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;2.23kg;544.00
+Acer;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;128GB SSD;Intel HD Graphics 400;Windows 10;1.4kg;435.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.37kg;749.00
+Lenovo;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;AMD Radeon R7 M460;No OS;1.5kg;799.00
+Lenovo;Notebook;15.6;Intel Core i7 7820HQ 2.9GHz;8GB;256GB SSD;Nvidia Quadro M2200M;Windows 10;2.67kg;2090.00
+Asus;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;500GB HDD;Intel HD Graphics 500;Windows 10;2kg;304.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Nvidia GeForce GTX 940MX;Windows 10;2.2kg;469.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;2TB HDD;AMD Radeon 530;Windows 10;2.02kg;759.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;12GB;1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.78kg;1699.00
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;12GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.4kg;1858.00
+HP;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.29kg;1999.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;500GB HDD;AMD FirePro W4190M ;Windows 10;1.9kg;1154.00
+Google;Ultrabook;12.3;Intel Core i5 7Y57 1.2GHz;8GB;128GB SSD;Intel HD Graphics 615;Chrome OS;1.1kg;1275.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.42kg;1841.85
+Asus;Notebook;15.6;Intel Core i7 6700HQ 2.6GHz;12GB;128GB SSD +  1TB HDD;Intel HD Graphics 530;Windows 10;2.06kg;1299.00
+Dell;Notebook;14;Intel Core i3 6100U 2.3GHz;8GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.79kg;740.00
+Dell;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M1200;Windows 10;1.78kg;2408.00
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;180GB SSD;Intel HD Graphics 620;Windows 10;1.7kg;1364.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;AMD Radeon 520;Windows 10;2.2kg;675.00
+Toshiba;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;1672.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Nvidia GeForce 940MX;Windows 10;2.16kg;1262.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.18kg;586.60
+HP;Notebook;13.3;Intel Core i5 8250U 1.6GHz;4GB;128GB SSD;Intel UHD Graphics 620;Windows 10;1.49kg;726.00
+Chuwi;Notebook;15.6;Intel Atom x5-Z8350 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics;Windows 10;1.89kg;248.90
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.3kg;565.00
+Lenovo;Notebook;14;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.75kg;1049.00
+Dell;Workstation;15.6;Intel Core i7 6820HQ 2.7GHz;16GB;512GB SSD;Nvidia Quadro M620;Windows 10;2.17kg;2338.00
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;1899.00
+Lenovo;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1798.00
+Asus;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;0.91kg;1950.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2.3kg;1011.99
+Toshiba;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;32GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;2799.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;1.99kg;1350.00
+Acer;Notebook;15.6;AMD A10-Series 9620P 2.5GHz;8GB;1TB HDD;AMD Radeon RX 540;Windows 10;2.2kg;579.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;24GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 965M;Windows 10;4.33kg;1269.00
+Lenovo;Ultrabook;12.5;Intel Core i5 6200U 2.3GHz;8GB;180GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1099.00
+Lenovo;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;2.17kg;898.90
+HP;Notebook;14;Intel Core i7 7600U 2.8GHz;8GB;1TB SSD;Intel HD Graphics 620;Windows 10;1.48kg;1749.00
+Lenovo;Notebook;13.3;Intel Core i3 7100U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.4kg;949.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.3kg;911.00
+Asus;Netbook;11.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;64GB Flash Storage;Intel HD Graphics 500;Windows 10 S;1.2kg;340.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;AMD Radeon 520;Windows 10;1.91kg;618.99
+Lenovo;2 in 1 Convertible;13.9;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.4kg;1599.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;500GB HDD;Intel HD Graphics 500;Windows 10;2.1kg;299.00
+Lenovo;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;16GB SSD;Intel HD Graphics 400;Chrome OS;1.25kg;265.00
+Lenovo;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.44kg;949.00
+Asus;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD +  1TB HDD;Intel HD Graphics 620;Windows 10;2kg;1224.00
+Acer;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;1TB HDD;Nvidia GeForce MX150;Windows 10;2.2kg;613.00
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.34kg;1323.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;No OS;2.4kg;1149.00
+Dell;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;899.00
+Acer;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;500GB HDD;Nvidia GeForce 940MX;Windows 10;2.2kg;639.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.18kg;836.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.2kg;1219.24
+Xiaomi;Notebook;15.6;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD;Nvidia GeForce MX150;No OS;1.95kg;1399.95
+Asus;Netbook;11.6;Intel Celeron Dual Core N3350 1.1GHz;2GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.1kg;245.00
+HP;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;1TB HDD;Intel UHD Graphics 620;Windows 10;2.04kg;521.47
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;24GB;512GB SSD;Nvidia GeForce GTX1080;Windows 10;2.24kg;2968.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;2.04kg;889.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX1050 Ti;Windows 10;3kg;1504.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.2kg;1399.00
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;1399.00
+Dell;Notebook;14;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.64kg;1279.73
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.63kg;689.00
+Dell;Notebook;17.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Linux;2.8kg;889.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;2.02kg;1340.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.2kg;799.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;2TB HDD;Nvidia GeForce 920MX ;No OS;2.2kg;459.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;AMD Radeon R5 M430;Windows 10;2.3kg;585.00
+Dell;Notebook;15.6;Intel Core i5 7440HQ 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;1377.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;3012.77
+Toshiba;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.0kg;860.00
+Asus;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2kg;1299.00
+Mediacom;Notebook;13.3;Intel Celeron Quad Core N3450 1.1GHz;4GB;32GB SSD;Intel HD Graphics 500;Windows 10;1.2kg;369.00
+Asus;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.3kg;1649.00
+Dell;Notebook;15.6;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.93kg;1369.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;797.41
+HP;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;256GB SSD;Intel HD Graphics 405;Windows 10;1.86kg;398.99
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;12GB;1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.62kg;1799.00
+Lenovo;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.87kg;859.00
+Dell;Ultrabook;13.3;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.2kg;1399.00
+Dell;Notebook;14;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.6kg;735.87
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.34kg;1145.00
+Acer;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Linux;2.4kg;798.00
+Asus;Notebook;15.6;AMD E-Series 7110 1.8GHz;4GB;500GB HDD;AMD Radeon R2 Graphics;Windows 10;2kg;349.00
+HP;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;2.1kg;705.50
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.87kg;785.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;1TB HDD;Intel HD Graphics 520;No OS;2.15kg;462.35
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.86kg;397.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.99kg;1729.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.2kg;499.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;1116.99
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;2699.00
+HP;Notebook;17.3;Intel Core i3 6006U 2GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.65kg;544.15
+HP;Notebook;17.3;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.63kg;1280.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;500GB HDD;Intel HD Graphics 500;Linux;2kg;224.00
+Mediacom;Notebook;13.3;Intel Atom x5-Z8350 1.44GHz;4GB;32GB Flash Storage;Intel HD Graphics;Windows 10;1.35kg;255.00
+Lenovo;Notebook;17.3;Intel Core i7 7500U 2.7GHz;6GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.8kg;949.00
+HP;Notebook;15.6;AMD A10-Series A10-9620P 2.5GHz;6GB;128GB SSD;AMD Radeon 530;Windows 10;1.91kg;568.90
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M420;Windows 10;2.18kg;617.90
+Acer;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 2.0GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.25kg;349.00
+Lenovo;Notebook;15.6;Intel Core i3 7130U 2.7GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;2.05kg;630.00
+HP;Ultrabook;13.3;Intel Core M 6Y75 1.2GHz;16GB;512GB SSD;Intel HD Graphics 515;Windows 10;1.16kg;1965.00
+Lenovo;Notebook;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M620M;Windows 10;3.4kg;2999.00
+Asus;Notebook;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;839.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD;Intel UHD Graphics 620;Windows 10;1.21kg;1599.00
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.93kg;959.00
+Fujitsu;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.2kg;739.00
+Lenovo;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;500GB HDD;Intel HD Graphics 505;Windows 10;2.2kg;344.00
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.02kg;990.00
+HP;Workstation;17.3;Intel Core i5 7440HQ 2.8GHz;8GB;500GB HDD;Nvidia Quadro M1200;Windows 10;3.14kg;1860.99
+HP;Notebook;14;Intel Pentium Quad Core N3710 1.6GHz;8GB;2TB HDD;Intel HD Graphics 405;Windows 10;1.94kg;389.00
+HP;Notebook;15.6;AMD A9-Series A9-9420 3GHz;6GB;256GB SSD;AMD Radeon 530;Windows 10;1.95kg;649.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.3kg;830.00
+Lenovo;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.05kg;685.00
+Mediacom;Notebook;14;Intel Atom x5-Z8350 1.44GHz;4GB;32GB SSD;Intel HD Graphics;Windows 10;1.4kg;249.00
+Toshiba;Ultrabook;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.24kg;1865.00
+Lenovo;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;32GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.6kg;2663.00
+MSI;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.14kg;2729.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;AMD Radeon R5 M430;Linux;2.2kg;749.01
+Mediacom;Notebook;14;Intel Celeron Quad Core N3450 1.1GHz;4GB;32GB SSD;Intel HD Graphics 500;Windows 10;1.45kg;389.00
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;8GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.9kg;1008.52
+HP;Notebook;13.3;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.49kg;719.00
+Dell;Notebook;15.6;Intel Core i7 7600U 2.8GHz;16GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.93kg;1537.39
+Dell;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.26kg;295.00
+MSI;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;4.5kg;2349.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3.78kg;1498.00
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;12GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.4kg;1673.00
+Lenovo;Notebook;15.6;Intel Core i7 8550U 1.8GHz;12GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.2kg;609.00
+Asus;Gaming;17.3;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.73kg;1770.00
+Asus;2 in 1 Convertible;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.2kg;739.00
+Lenovo;Notebook;15.6;AMD A12-Series 9720P 3.6GHz;12GB;512GB SSD;AMD Radeon 530;Windows 10;2.2kg;949.00
+Dell;2 in 1 Convertible;11.6;Intel Core M 7Y30 1.0GHz;4GB;128GB SSD;Intel HD Graphics 615;Windows 10;1.39kg;603.00
+Samsung;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;1699.00
+Lenovo;Notebook;17.3;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;2.8kg;529.00
+Lenovo;Notebook;15.6;Intel Core i3 6100U 2.3GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.29kg;459.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;2025.00
+Lenovo;Notebook;14;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Intel HD Graphics 630;Windows 10;1.7kg;1474.00
+Dell;2 in 1 Convertible;12.5;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.34kg;1670.00
+Dell;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M620;Windows 10;2.06kg;1763.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.84kg;1219.00
+HP;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.1kg;668.48
+Acer;Notebook;14;Intel Celeron Quad Core N3450 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.6kg;329.00
+MSI;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 970M;Windows 10;4.14kg;2199.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M420;Linux;2.18kg;465.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  2TB HDD;Nvidia GeForce GTX 1060;Windows 10;1.8kg;2299.00
+Toshiba;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.2kg;1399.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.4kg;564.00
+Lenovo;2 in 1 Convertible;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Intel HD Graphics 630;Windows 10;2kg;1299.00
+Acer;Notebook;14;Intel Pentium Quad Core N3710 1.6GHz;4GB;128GB Flash Storage;Intel HD Graphics 405;Windows 10;1.6kg;349.00
+Lenovo;Notebook;15.6;Intel Xeon E3-1535M v6 3.1GHz;32GB;1TB SSD;Nvidia Quadro M2200M;Windows 10;2.5kg;4899.00
+Dell;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;1TB HDD;Nvidia GeForce GTX 960<U+039C>;Windows 10;2.59kg;879.01
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;Intel HD Graphics 520;Linux;2.18kg;443.90
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;Intel HD Graphics 520;Linux;2.25kg;359.00
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;4GB;500GB HDD;Intel HD Graphics 620;Linux;1.93kg;869.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;3kg;1168.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;AMD Radeon R5 M420;Linux;2.18kg;569.00
+HP;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.84kg;1389.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.94kg;2267.86
+Acer;2 in 1 Convertible;11.6;Intel Celeron Quad Core N3160 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.25kg;379.00
+HP;Notebook;14;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.31kg;1124.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.65kg;1465.00
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;1TB HDD;AMD Radeon 530;Windows 10;2.2kg;776.00
+Fujitsu;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.2kg;799.00
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 7;1.88kg;932.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.2kg;899.00
+Mediacom;Notebook;14;Intel Atom x5-Z8350 1.44GHz;2GB;32GB Flash Storage;Intel HD Graphics;Windows 10;1.4kg;239.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;No OS;2.2kg;468.00
+Asus;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.5kg;639.01
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2kg;1820.00
+Asus;Ultrabook;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1900.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.62kg;1479.00
+Lenovo;Notebook;15.6;Intel Core i5 8250U 1.6GHz;4GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.8kg;829.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Nvidia GeForce 920MX ;Windows 10;2.2kg;579.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;8GB;1TB HDD;Intel HD Graphics 500;Windows 10;2kg;399.00
+Asus;Notebook;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;1.99kg;906.62
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.23kg;1869.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.42kg;249.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;1757.42
+Dell;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;1TB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;2399.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050M;Windows 10;2.5kg;1109.00
+HP;Notebook;17;AMD A9-Series 9420 3GHz;8GB;1TB HDD;AMD Radeon R5;Windows 10;2.6kg;520.90
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.14kg;2450.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050 Ti;No OS;2.5kg;1169.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.4kg;450.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics;Windows 10;1.43kg;274.00
+Acer;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel Graphics 620;Windows 10;1.8kg;919.00
+Razer;Gaming;14;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD;Nvidia GeForce GTX 1060;Windows 10;1.95kg;2599.00
+Toshiba;Notebook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1213.00
+Lenovo;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1584.00
+Asus;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;32GB;512GB SSD;Nvidia GeForce GTX 1080;Windows 10;3.8kg;2799.00
+Acer;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Linux;2.4kg;709.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.2kg;1449.90
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.2kg;1191.80
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;1.86kg;364.90
+Toshiba;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.0kg;1064.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;8GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;919.00
+Dell;Notebook;15.6;Intel Core i7 8550U 1.8GHz;16GB;256GB SSD +  2TB HDD;AMD Radeon 530;Windows 10;2.2kg;1135.00
+Lenovo;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960;Windows 10;3.31kg;1196.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;32GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;3147.37
+Dell;Notebook;14;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.56kg;1229.00
+Lenovo;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;500GB HDD;Intel HD Graphics 500;Windows 10;2.2kg;419.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.2kg;535.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;6GB;1TB HDD;AMD Radeon R5 M430;Windows 10;2.04kg;539.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.7kg;1486.77
+Toshiba;Notebook;15.6;Intel Core i3 6100U 2.1GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.1kg;498.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.06kg;955.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon 530;Windows 10;2.1kg;745.00
+Toshiba;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.0kg;1258.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD;Intel HD Graphics 520;Linux;2.1kg;412.00
+Microsoft;Ultrabook;13.5;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Intel Iris Plus Graphics 640;Windows 10 S;1.252kg;1867.85
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon R5 M430;Windows 10;1.90kg;817.95
+Lenovo;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.3kg;1034.00
+Lenovo;Notebook;15.6;AMD E-Series E2-9000 2.2GHz;4GB;128GB SSD;AMD Radeon R2 Graphics;Windows 10;2.2kg;349.00
+HP;2 in 1 Convertible;14;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Nvidia GeForce 940MX;Windows 10;1.63kg;699.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.4kg;1294.00
+Asus;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1135.00
+HP;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 1.1GHz;8GB;64GB Flash Storage;Intel HD Graphics 500;Chrome OS;1.4kg;495.00
+LG;Ultrabook;15.6;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.09kg;2299.00
+Acer;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;16GB;256GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1299.00
+MSI;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;997.90
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;128GB SSD;Intel HD Graphics 500;Windows 10;1.86kg;419.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.21kg;2051.00
+HP;Notebook;17.3;Intel Core i3 6006U 2GHz;4GB;256GB SSD;AMD Radeon R5 520;Windows 10;2.5kg;699.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 8550U 1.8GHz;8GB;512GB SSD;Intel UHD Graphics 620;Windows 10;1.19kg;1499.00
+Dell;Gaming;15.6;Intel Core i7 7820HK 2.9GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;3.49kg;2813.75
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;AMD Radeon 520;Windows 10;1.86kg;612.61
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M430;Windows 10;2.2kg;545.67
+HP;Notebook;17.3;AMD A10-Series 9600P 2.4GHz;6GB;2TB HDD;AMD Radeon R7 M440;Windows 10;2.65kg;569.00
+Lenovo;Notebook;15.6;Intel Celeron Dual Core 3855U 1.6GHz;4GB;500GB HDD;Intel HD Graphics 510;Windows 10;2.1kg;318.00
+Acer;Notebook;14;Intel Celeron Dual Core 3855U 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 510;Chrome OS;1.45kg;375.00
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.7kg;699.00
+HP;Workstation;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;500GB HDD;Nvidia Quadro M1200;Windows 10;3.14kg;1907.99
+Lenovo;2 in 1 Convertible;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.42kg;2590.00
+Toshiba;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.5kg;973.00
+Acer;Netbook;11.6;Intel Celeron Dual Core N3050 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics;Windows 10;1.4kg;269.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.38kg;1749.00
+Asus;2 in 1 Convertible;12.5;Intel Core M M3-6Y30 0.9GHz;4GB;64GB Flash Storage;Intel HD Graphics 515;Chrome OS;1.2kg;669.00
+Toshiba;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.36kg;1877.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;500GB HDD;AMD Radeon 530;Windows 10;2.1kg;689.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.56kg;819.00
+Lenovo;Notebook;15.6;AMD A9-Series 9420 2.9GHz;4GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;399.00
+Lenovo;Notebook;15.6;AMD A12-Series 9720P 3.6GHz;8GB;1TB HDD;AMD Radeon R7;Windows 10;2.2kg;429.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD +  1TB HDD;Intel HD Graphics 620;Windows 10;2.1kg;621.45
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;1.90kg;450.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.18kg;795.00
+Acer;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;256GB SSD;Intel UHD Graphics 620;Windows 10;1.6kg;999.00
+Lenovo;Workstation;15.6;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Nvidia Quadro M520M;Windows 7;2.18kg;1855.00
+Lenovo;Notebook;14;Intel Core i5 6300HQ 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;1191.00
+HP;Notebook;17.3;AMD A10-Series 9620P 2.5GHz;6GB;2TB HDD;AMD Radeon 530;Windows 10;2.71kg;655.01
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1249.00
+Dell;Notebook;14;Intel Core i5 7440HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Linux;1.64kg;1089.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Linux;1.98kg;726.00
+Asus;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.5kg;298.00
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.93kg;1426.66
+Lenovo;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 920MX;Windows 10;1.87kg;857.07
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;1179.00
+Lenovo;Notebook;15.6;AMD A6-Series 7310 2GHz;4GB;500GB HDD;AMD Radeon R4;Windows 10;2.19kg;298.00
+Mediacom;Notebook;14;Intel Atom Z8350 1.92GHz;4GB;32GB HDD;Intel HD Graphics 400;Windows 10;1.4kg;265.00
+HP;Notebook;17.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;2.63kg;1200.00
+Lenovo;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.17kg;1686.64
+HP;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.58kg;836.60
+Lenovo;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;1499.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;32GB;1TB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.36kg;3659.40
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.7kg;1348.48
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;No OS;1.9kg;489.90
+Dell;Notebook;15.6;Intel Core i5 8250U 1.6GHz;8GB;128GB SSD +  1TB HDD;AMD Radeon 530;Windows 10;2.2kg;719.00
+Dell;2 in 1 Convertible;13.3;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.71kg;649.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;AMD Radeon R7 M445;Linux;2.32kg;589.52
+HP;Notebook;15.6;AMD A9-Series 9420 3GHz;4GB;1TB HDD;AMD Radeon 520;Windows 10;2.1kg;489.00
+Acer;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;4.2kg;1935.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;12GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.25kg;649.00
+HP;Notebook;15.6;AMD A9-Series A9-9420 3GHz;6GB;128GB SSD +  1TB HDD;AMD Radeon 520;Windows 10;2.1kg;650.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.4kg;559.00
+Lenovo;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.44kg;960.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;1.85kg;779.00
+HP;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD;Nvidia Quadro M2200;Windows 10;2.6kg;2419.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 8250U 1.6GHz;8GB;1TB HDD;Intel UHD Graphics 620;Windows 10;1.55kg;659.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;1.8kg;2094.48
+Acer;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.4kg;410.80
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.0kg;1207.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2kg;665.00
+Toshiba;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.25kg;1535.00
+Lenovo;2 in 1 Convertible;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.7kg;999.00
+Lenovo;Workstation;15.6;Intel Core i7 7600U 2.8GHz;16GB;1TB SSD;Nvidia Quadro M520M;Windows 10;2.5kg;3299.00
+Acer;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.68kg;330.00
+Samsung;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;Intel HD Graphics 620;Windows 10;0.81kg;1649.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.86kg;539.00
+Dell;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;1126.71
+HP;Workstation;17.3;Intel Xeon E3-1535M v5 2.9GHz;16GB;256GB SSD;Nvidia Quadro M2000M;Windows 7;3kg;4389.00
+Lenovo;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;128GB SSD;Intel HD Graphics 400;Windows 10;1.4kg;475.00
+HP;Notebook;15.6;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.84kg;1900.00
+Asus;Notebook;15.6;Intel Core i5 6300HQ 2.3GHz;4GB;1TB HDD;Nvidia GeForce GTX 950M;No OS;2.45kg;579.00
+Lenovo;Ultrabook;14;Intel Core i5 6200U 2.3GHz;4GB;180GB SSD;Intel HD Graphics 520;Windows 10;1.7kg;1096.00
+Asus;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.37kg;849.90
+Lenovo;2 in 1 Convertible;13.3;Intel Core i5 6260U 1.8GHz;8GB;256GB SSD;Intel HD Graphics 540;Windows 10;1.3kg;1199.00
+HP;Notebook;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1099.00
+HP;Workstation;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD;Nvidia Quadro M1000M;Windows 7;2.59kg;1561.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;2868.99
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.1kg;599.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.5kg;1048.00
+Dell;Ultrabook;12.5;Intel Core i7 7600U 2.8GHz;16GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.18kg;1859.00
+Google;Ultrabook;12.3;Intel Core i5 7Y57 1.2GHz;8GB;256GB SSD;Intel HD Graphics 615;Chrome OS;1.1kg;1559.00
+Asus;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.2kg;1129.00
+Dell;Notebook;13.3;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.65kg;849.00
+Acer;Notebook;13.3;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.6kg;655.00
+Asus;Notebook;17.3;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.8kg;470.34
+Dell;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.72kg;1099.00
+Samsung;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.31kg;1599.00
+Acer;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;Linux;2.1kg;298.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;AMD Radeon R7 M445;Windows 10;2.3kg;1181.27
+Samsung;2 in 1 Convertible;15;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;AMD Radeon 540;Windows 10;1.71kg;1799.00
+Toshiba;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.75kg;1020.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.62kg;1099.00
+HP;Ultrabook;12.5;Intel Core i5 6200U 2.3GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.26kg;1244.00
+Asus;2 in 1 Convertible;15.6;Intel Core i7 7500U 2.7GHz;12GB;2TB HDD;Nvidia GeForce 940MX;Windows 10;2.3kg;839.00
+Lenovo;Notebook;15.6;Intel Core i7 6820HQ 2.7GHz;16GB;512GB SSD;Nvidia Quadro M2000M;Windows 7;2.5kg;2370.00
+Acer;Notebook;14;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.8kg;636.00
+Razer;Gaming;14;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1060;Windows 10;1.95kg;2899.00
+Asus;Notebook;15.6;Intel Pentium Dual Core N4200 1.1GHz;8GB;128GB SSD;Intel HD Graphics 505;Windows 10;2kg;581.90
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;32GB;1TB SSD +  1TB HDD;Nvidia GeForce GTX 1070M;Windows 10;4.42kg;3588.80
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.3kg;2350.00
+Toshiba;Ultrabook;14;Intel Core i7 6600U 2.6GHz;16GB;512GB SSD;Nvidia GeForce 930M;Windows 10;1.47kg;1764.00
+Lenovo;Notebook;15.6;Intel Celeron Quad Core N3710 1.6GHz;8GB;1TB HDD;Intel HD Graphics 405;No OS;2.2kg;329.00
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.7kg;2299.00
+MSI;Gaming;14;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;1.6kg;1891.00
+MSI;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1089.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;4GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.4kg;999.00
+Acer;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;4.2kg;2299.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.62kg;985.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX1060;Windows 10;2.24kg;1339.00
+Vero;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.22kg;202.90
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;1970.00
+Lenovo;2 in 1 Convertible;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;AMD Radeon R7 M460;Windows 10;2.08kg;959.00
+Apple;Ultrabook;12;Intel Core M 1.2GHz;8GB;512GB Flash Storage;Intel HD Graphics 5300;Mac OS X;0.920kg;1165.00
+Lenovo;2 in 1 Convertible;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.42kg;2330.00
+Asus;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.63kg;299.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;810.00
+Lenovo;2 in 1 Convertible;13.9;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.38kg;1349.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;8GB;256GB SSD;AMD Radeon R5 M420X;Windows 10;2kg;739.00
+HP;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia Quadro M2200;Windows 10;3.14kg;2064.90
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.37kg;1099.00
+Dell;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;1499.00
+Dell;Notebook;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.06kg;1749.00
+Dell;Netbook;11.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;128GB SSD;Intel HD Graphics 505;Windows 10;1.63kg;744.00
+HP;Netbook;12.5;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.26kg;1389.00
+Toshiba;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.1kg;780.00
+HP;Notebook;15.6;AMD A12-Series 9700P 2.5GHz;8GB;2TB HDD;AMD Radeon R7 Graphics;Windows 10;2.04kg;629.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.62kg;1679.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Nvidia GeForce 920M;Windows 10;2.4kg;609.00
+HP;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;12GB;1TB HDD;AMD Radeon RX 580;Windows 10;3.74kg;1749.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.9kg;2415.00
+Samsung;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;0.81kg;1499.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce GT 940MX;Windows 10;1.98kg;961.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;AMD Radeon R5 M420;Windows 10;2.18kg;789.81
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;1859.00
+Razer;Ultrabook;12.5;Intel Core i7 7500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;1799.00
+HP;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.23kg;385.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;4.36kg;2505.02
+Dell;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.76kg;755.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.1kg;489.90
+Toshiba;Ultrabook;14;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.25kg;1090.00
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.13kg;2499.00
+MSI;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;256GB SSD;Nvidia GeForce GTX 1050;Windows 10;2.4kg;1199.00
+Lenovo;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB Flash Storage;Intel HD Graphics 620;Windows 10;1.13kg;1875.00
+Toshiba;Notebook;14;Intel Pentium Dual Core 4405U 2.1GHz;4GB;128GB SSD;Intel HD Graphics 510;Windows 10;1.75kg;499.00
+Asus;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1358.00
+Dell;Notebook;14;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.76kg;585.00
+Acer;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.35kg;355.00
+Acer;Notebook;14;Intel Core i3 7100U 2.4GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.5kg;619.00
+Razer;Gaming;17.3;Intel Core i7 7820HK 2.9GHz;32GB;512GB SSD;Nvidia GeForce GTX 1080;Windows 10;3.49kg;5499.00
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.1kg;2099.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Nvidia GeForce 920;Linux;2.1kg;519.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.7kg;1186.00
+Lenovo;Notebook;14;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;1650.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;3.21kg;2774.63
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.9kg;2419.00
+Toshiba;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.0kg;669.00
+Lenovo;Notebook;14;Intel Celeron Quad Core N3160 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.5kg;325.00
+Asus;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB HDD;Intel HD Graphics 620;Windows 10;2.3kg;590.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.73kg;1799.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;32GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;3072.89
+HP;Notebook;17.3;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.63kg;910.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;2.18kg;713.99
+HP;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 520;Windows 7;1.54kg;1870.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;4GB;256GB SSD;AMD Radeon R5 M420;Windows 10;2.18kg;739.00
+HP;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Chrome OS;1.4kg;615.00
+Asus;Ultrabook;13.3;Intel Core i5 6200U 2.3GHz;8GB;512GB SSD;Nvidia GeForce 940M;Windows 10;1.45kg;1026.00
+HP;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.28kg;2277.00
+HP;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.54kg;1468.00
+HP;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;128GB SSD;Intel HD Graphics 400;No OS;1.86kg;299.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.1kg;1899.00
+Dell;Notebook;17.3;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R7 M445;Linux;2.83kg;865.00
+Lenovo;Ultrabook;14;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD;Nvidia GeForce GT 940MX;Windows 10;1.96kg;1903.00
+Asus;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce GTX 930MX;Windows 10;2.3kg;787.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.9kg;945.00
+Asus;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;Windows 10;2kg;449.00
+HP;2 in 1 Convertible;13.3;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.28kg;2559.00
+Dell;Notebook;13.3;Intel Core i5 6200U 2.3GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;1.62kg;649.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;Intel HD Graphics 520;No OS;2.2kg;469.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;850.66
+HP;Notebook;15.6;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;AMD Radeon R7 M465;Windows 10;1.84kg;1349.00
+Toshiba;Notebook;13.3;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;1285.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;No OS;2.5kg;1017.00
+Dell;Ultrabook;13.3;Intel Core i7 7660U 2.5GHz;16GB;512GB SSD;Intel Iris Plus Graphics 640;Windows 10;1.29kg;2240.00
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.07kg;910.00
+Toshiba;Ultrabook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1095.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;1950.00
+Acer;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.56kg;902.00
+Dell;Workstation;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia Quadro M620;Windows 10;2.23kg;1778.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.38kg;1055.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M430;No OS;2.2kg;479.00
+Toshiba;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.0kg;1388.00
+Lenovo;Notebook;13.3;Intel Core i3 7100U 2.4GHz;4GB;180GB SSD;Intel HD Graphics 620;Windows 10;1.44kg;735.00
+Samsung;Ultrabook;15;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.23kg;1849.00
+Dell;Ultrabook;12.5;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;1690.00
+Asus;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;Linux;2kg;398.99
+Xiaomi;Ultrabook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;1.28kg;935.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD +  1TB HDD;Nvidia GeForce 940MX;Windows 10;2.18kg;912.50
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.04kg;839.00
+HP;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.28kg;1700.00
+HP;2 in 1 Convertible;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.3kg;684.80
+Asus;Notebook;14.1;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.65kg;348.00
+Lenovo;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;2.2kg;669.00
+Dell;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;369.00
+HP;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.28kg;1799.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;AMD Radeon R5 M420X;Linux;2.18kg;455.70
+Asus;Gaming;17.3;Intel Core i5 7300HQ 2.5GHz;12GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1369.90
+Acer;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.25kg;297.00
+Lenovo;Notebook;17.3;AMD A4-Series 7210 2.2GHz;4GB;500GB HDD;AMD Radeon R3;Windows 10;2.8kg;379.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;1265.00
+HP;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;16GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.42kg;1399.00
+Samsung;Ultrabook;15;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.17kg;1699.00
+Lenovo;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.32kg;1799.00
+MSI;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;512GB SSD +  2TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.43kg;2649.00
+Toshiba;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;1475.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050Ti;Linux;2.62kg;929.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.04kg;900.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;AMD Radeon R5 M420X;Windows 10;2.18kg;614.00
+Dell;Notebook;15.6;Intel Core i5 7300U 2.6GHz;8GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.9kg;935.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 7Y75 1.3GHz;8GB;512GB SSD;Intel HD Graphics 615;Windows 10;1.24kg;2013.10
+Asus;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;32GB;256GB SSD +  256GB SSD;Nvidia GeForce GTX 980M;Windows 10;3.58kg;1279.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 7Y75 1.3GHz;16GB;256GB SSD;Intel HD Graphics 615;Windows 10;1.22kg;1649.00
+Lenovo;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB Flash Storage;Intel HD Graphics 620;Windows 10;1.13kg;2049.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;1962.99
+LG;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.08kg;2099.00
+HP;Netbook;12.5;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.26kg;1483.00
+Acer;Notebook;15.6;Intel Celeron Dual Core 3205U 1.5GHz;4GB;16GB Flash Storage;Intel HD Graphics;Chrome OS;2.20kg;359.00
+Lenovo;Notebook;15.6;Intel Core i5 6300HQ 2.3GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.6kg;789.00
+LG;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;0.98kg;1899.00
+Dell;Notebook;14;Intel Core i5 7440HQ 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;1205.00
+HP;Ultrabook;12.5;Intel Core M 6Y75 1.2GHz;8GB;240GB SSD;Intel HD Graphics 515;Windows 10;1.09kg;3100.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;6GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2.2kg;789.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;2.04kg;1018.99
+Acer;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.4kg;499.00
+Lenovo;Notebook;13.3;Intel Core i5 7200U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;1.44kg;881.00
+HP;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.49kg;960.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.7kg;1599.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.6kg;1349.00
+MSI;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1119.91
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;AMD Radeon R5 M420;Windows 10;2.18kg;684.99
+HP;Ultrabook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;AMD Radeon R7 M365X;Windows 10;1.84kg;1296.99
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.39kg;1149.00
+Toshiba;Notebook;15.6;Intel Core i7 6600U 2.6GHz;16GB;256GB SSD;Nvidia GeForce 930M;Windows 10;2.4kg;1975.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.37kg;1825.00
+Dell;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.95kg;729.90
+Lenovo;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1650.00
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.31kg;1165.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.18kg;708.06
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.95kg;1149.00
+Lenovo;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;1TB HDD;Intel HD Graphics 505;Windows 10;2.2kg;309.00
+HP;Ultrabook;12.5;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.26kg;1579.00
+HP;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;1TB HDD;Intel HD Graphics 400;No OS;1.86kg;288.90
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 6560U 2.2GHz;16GB;1TB SSD;Intel Iris Graphics 540;Windows 10;1.3kg;1799.00
+Toshiba;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.47kg;1105.00
+HP;Netbook;12.5;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.26kg;1669.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.18kg;558.60
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1199.00
+Dell;Ultrabook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1639.00
+Dell;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1080;Windows 10;4.36kg;2758.00
+HP;Gaming;17.3;Intel Core i5 6300HQ 2.3GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 965M;Windows 10;2.75kg;1399.00
+Asus;Notebook;17.3;Intel Pentium Quad Core N3710 1.6GHz;4GB;1TB HDD;Nvidia GeForce 920MX;Windows 10;2.8kg;530.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.23kg;619.00
+Toshiba;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.2kg;1119.00
+Lenovo;2 in 1 Convertible;11.3;Intel Core M m7-6Y75 1.2GHz;8GB;256GB SSD;Intel HD Graphics 515;Windows 10;1.1kg;1299.00
+Lenovo;Gaming;15.6;AMD FX 8800P 2.1GHz;16GB;512GB SSD +  1TB HDD;AMD Radeon R9 M385;Windows 10;2.5kg;999.00
+Dell;Ultrabook;12.5;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics;Windows 10;1.36kg;1472.20
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 920MX;No OS;2.2kg;685.00
+Dell;Notebook;17.3;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.36kg;659.00
+Acer;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.68kg;349.00
+HP;Workstation;15.6;Intel Core i7 6820HQ 2.7GHz;8GB;8GB SSD;Nvidia Quadro M1000M;Windows 10;2.0kg;2249.00
+Dell;Ultrabook;14;Intel Core i7 7600U 2.8GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1775.00
+Toshiba;Notebook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.2kg;1460.00
+Asus;2 in 1 Convertible;12.5;Intel Core M M7-6Y75 1.2GHz;8GB;64GB Flash Storage;Intel HD Graphics 515;Chrome OS;1.2kg;1159.00
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.7kg;1488.99
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.36kg;3154.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 7Y54 1.2GHz;8GB;256GB SSD;Intel HD Graphics 615;Windows 10;1.24kg;1899.00
+HP;2 in 1 Convertible;11.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;256GB SSD;Intel HD Graphics 505;Windows 10;1.45kg;775.00
+Dell;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1268.00
+Acer;2 in 1 Convertible;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.25kg;389.00
+Toshiba;Notebook;13.3;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1535.00
+Lenovo;Ultrabook;12.5;Intel Core i5 7300U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.36kg;1760.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;12GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 950M;Windows 10;2.4kg;1009.00
+Toshiba;Ultrabook;12.5;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.1kg;1790.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.50GHz;8GB;1TB HDD;Nvidia GeForce 930MX;Windows 10;2.04kg;846.50
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;AMD Radeon R5 M430;Linux;2.25kg;465.62
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.9kg;825.00
+HP;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.04kg;685.00
+Dell;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;32GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;3149.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;6GB;256GB SSD;Nvidia GeForce 920MX;Windows 10;2.4kg;695.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 7Y75 1.3GHz;16GB;512GB SSD;Intel HD Graphics 615;Windows 10;1.22kg;1899.00
+Dell;Ultrabook;14;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.5kg;1962.98
+Dell;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;32GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.42kg;2800.00
+Toshiba;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.95kg;1180.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.73kg;2049.90
+HP;Notebook;15.6;Intel Core i5 7200U 2.70GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce 930MX;Windows 10;2.04kg;979.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;508GB Hybrid;Intel HD Graphics 520;Windows 7;1.70kg;1002.00
+Asus;2 in 1 Convertible;15.6;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD +  2TB HDD;Nvidia GeForce GTX 950M;Windows 10;2.3kg;1799.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.04kg;579.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.99kg;1749.00
+Dell;2 in 1 Convertible;15.6;Intel Core i7 7500U 2.7GHz;12GB;512GB SSD;Intel HD Graphics 620;Windows 10;2.19kg;1299.00
+Toshiba;Notebook;13.3;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 7;1.2kg;1195.00
+Lenovo;Notebook;15.6;AMD A12-Series 9720P 3.6GHz;6GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;549.00
+Fujitsu;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.3kg;649.00
+Toshiba;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.75kg;915.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;AMD Radeon R5 M430;Windows 10;2.25kg;599.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.04kg;806.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.5kg;1189.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.36kg;749.00
+Dell;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;128GB SSD;Intel HD Graphics 620 ;Windows 10;1.6kg;1119.00
+HP;Netbook;12.5;Intel Core M 6Y75 1.2GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;0.97kg;1908.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;128GB SSD +  1TB HDD;AMD Radeon 520;Windows 10;2.1kg;499.00
+Lenovo;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;128GB SSD;Intel HD Graphics 500;No OS;1.9kg;270.62
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.3kg;1349.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.68kg;889.00
+Asus;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.4kg;1150.00
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.11kg;1349.00
+Acer;Notebook;15.6;Intel Pentium Quad Core N4200 1.1GHz;4GB;500GB HDD;Intel HD Graphics 505;Windows 10;2.4kg;380.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1799.00
+HP;Ultrabook;14;Intel Core i7 7500U 2.7GHz;8GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.48kg;2089.00
+Acer;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.7kg;1260.00
+HP;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.34kg;1189.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;128GB SSD;Intel HD Graphics 620;Windows 10;2.18kg;547.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.64kg;779.00
+Toshiba;Notebook;13.3;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1195.00
+HP;Notebook;14;Intel Core i5 6300U 2.4GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.48kg;1099.99
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;1205.00
+HP;Ultrabook;14;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.43kg;1449.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.64kg;1049.26
+HP;Notebook;14;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.64kg;684.00
+Dell;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1.0TB Hybrid;Nvidia GeForce GTX 1050;Windows 10;2.65kg;949.00
+HP;Ultrabook;12.5;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.26kg;1539.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.48kg;1590.00
+HP;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.54kg;1887.21
+HP;Notebook;13.3;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.49kg;800.00
+Toshiba;Notebook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.5kg;1210.00
+HP;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.04kg;769.99
+Lenovo;Notebook;17.3;Intel Core i7 6820HQ 2.7GHz;16GB;512GB SSD;Nvidia Quadro 3000M;Windows 7;2.4kg;2968.00
+Toshiba;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.47kg;1490.00
+HP;Notebook;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.43kg;2229.00
+Dell;2 in 1 Convertible;15.6;Intel Core i3 6100U 2.3GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.08kg;795.99
+Toshiba;Ultrabook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.2kg;1590.00
+HP;Notebook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.11kg;1149.00
+HP;Notebook;14;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;1.64kg;1185.43
+Dell;Notebook;15.6;Intel Core i5 6300U 2.4GHz;8GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.09kg;1046.44
+HP;Ultrabook;12.5;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.26kg;1559.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.31kg;1189.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.95kg;1060.00
+Dell;Ultrabook;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;1624.00
+HP;Notebook;17.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Nvidia GeForce 930MX;Windows 10;2.63kg;1080.00
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.64kg;973.00
+Acer;Notebook;15.6;AMD A9-Series 9420 3GHz;6GB;1TB HDD;AMD Radeon R5;Windows 10;2.1kg;409.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.7kg;1191.80
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.95kg;1195.00
+HP;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.84kg;1228.99
+HP;Ultrabook;12.5;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.26kg;1349.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.04kg;742.00
+Toshiba;Ultrabook;14;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.47kg;1725.00
+Dell;Notebook;15.6;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;2.09kg;1062.95
+HP;Notebook;14;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.64kg;1010.51
+Lenovo;2 in 1 Convertible;15.6;Intel Core i7 6500U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;847.00
+Vero;Notebook;14;Intel Atom X5-Z8350 1.44GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.45kg;210.80
+Toshiba;Notebook;15.6;Intel Core i7 6500U 2.5GHz;16GB;256GB SSD;Nvidia GeForce 930M;Windows 10;2.4kg;1425.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.3kg;1049.60
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;1.54kg;1000.00
+HP;Notebook;15.6;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD +  500GB HDD;Intel HD Graphics 520;Windows 10;1.84kg;2103.34
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.43kg;1469.00
+MSI;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;3.78kg;1545.64
+Lenovo;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;4.6kg;2289.99
+Asus;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;16GB Flash Storage;Intel HD Graphics 400;Chrome OS;1.2kg;287.90
+Lenovo;Notebook;14;Intel Core i7 6600U 2.6GHz;16GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.1kg;2620.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;1.91kg;979.00
+Dell;2 in 1 Convertible;15.6;Intel Core i5 7200U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.3kg;1094.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.04kg;979.00
+Dell;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;1TB SSD;Intel HD Graphics 620;Windows 10;1.2kg;2254.00
+HP;Notebook;15.6;Intel Core i3 6100U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.31kg;705.15
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;No OS;1.96kg;499.00
+Acer;Notebook;15.6;AMD A8-Series 7410 2.2GHz;8GB;1TB HDD;AMD Radeon R5;Windows 10;2.4kg;449.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 7500U 2.7GHz;12GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;1299.00
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.94kg;1819.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.04kg;1070.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;1TB HDD;Nvidia GeForce GTX 965M;No OS;4kg;998.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics;Windows 10;2.25kg;559.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;16GB;2TB HDD;AMD Radeon R7 M445;Windows 10;2.32kg;989.99
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;1.8kg;1929.00
+Dell;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;1458.00
+Asus;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;64GB;1TB SSD;Nvidia GeForce GTX 980 ;Windows 10;3.58kg;3975.00
+Dell;2 in 1 Convertible;13.3;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.62kg;798.01
+Dell;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 970M;Windows 10;3.21kg;1329.00
+Apple;Ultrabook;12;Intel Core M 1.1GHz;8GB;256GB Flash Storage;Intel HD Graphics 515;Mac OS X;0.920kg;1300.00
+Dell;Notebook;15.6;Intel Core i3 6100U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.06kg;481.98
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.31kg;1199.00
+HP;Ultrabook;12.5;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.26kg;1199.00
+HP;Notebook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.49kg;1090.00
+Lenovo;Ultrabook;12.5;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1713.49
+Lenovo;Notebook;17.3;Intel Core i5 6200U 2.3GHz;8GB;1.0TB HDD;AMD Radeon R5 M330;Windows 10;3.0kg;659.00
+Lenovo;Notebook;15.6;Intel Core i5 6300HQ 2.3GHz;4GB;1TB HDD;Nvidia GeForce GTX 950M;Windows 10;2.3kg;977.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;3.78kg;2499.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.1kg;540.00
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 7;2.31kg;940.00
+Lenovo;Ultrabook;12.5;Intel Core M 6Y75 1.2GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;0.99kg;1399.00
+Lenovo;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;32GB;512GB SSD +  1.0TB Hybrid;Nvidia GeForce GTX 980M;Windows 10;4.6kg;3240.00
+Lenovo;2 in 1 Convertible;10.1;Intel Atom x5-Z8550 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics 400;Windows 10;0.69kg;646.27
+HP;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.3kg;2049.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.18kg;750.00
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 7;1.54kg;1030.99
+HP;Workstation;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;AMD FirePro W4190M;Windows 7;1.9kg;1495.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;180GB SSD;Intel HD Graphics 520;Windows 7;1.7kg;1199.00
+HP;Notebook;13.3;Intel Pentium Dual Core 4405Y 1.5GHz;4GB;32GB Flash Storage;Intel HD Graphics 515;Chrome OS;1.29kg;615.00
+Acer;Notebook;15.6;AMD A8-Series 7410 2.2GHz;4GB;500GB HDD;AMD Radeon R5;Windows 10;2.4kg;387.00
+Dell;Notebook;15.6;Intel Pentium Quad Core N3700 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Linux;2.2kg;393.49
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;No OS;1.86kg;345.99
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.7kg;1599.00
+Dell;Ultrabook;13.3;Intel Core i5 8250U 1.6GHz;4GB;256GB SSD;AMD Radeon 530;Windows 10;1.4kg;818.35
+HP;Netbook;12.5;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 7;2.4kg;1599.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 950M;Windows 10;2.4kg;799.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.36kg;638.80
+MSI;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD;Nvidia GeForce GTX 965M;Windows 10;2.6kg;1599.00
+HP;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;1TB HDD;Intel HD Graphics 405;Windows 10;1.96kg;500.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;4.3kg;2299.00
+Dell;Ultrabook;12.5;Intel Core i3 6100U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 7;1.5kg;1135.15
+Dell;Ultrabook;12.5;Intel Core i3 6100U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 7;1.5kg;1166.97
+Acer;Notebook;15.6;Intel Celeron Dual Core 3205U 1.5GHz;4GB;16GB SSD;Intel HD Graphics;Chrome OS;2.20kg;209.00
+HP;Workstation;17.3;Intel Core i7 6700HQ 2.6GHz;8GB;1TB HDD;AMD FirePro W6150M;Windows 7;3.0kg;2899.00
+Lenovo;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;512GB SSD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.4kg;1199.00
+Dell;Ultrabook;12.5;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.5kg;1413.10
+MSI;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.9kg;1511.19
+Lenovo;2 in 1 Convertible;15.6;Intel Core i5 6200U 2.3GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.1kg;867.00
+HP;Notebook;15.6;AMD A6-Series 9220 2.5GHz;4GB;1TB HDD;AMD Radeon R4;Windows 10;2.1kg;398.00
+Asus;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.59kg;1339.00
+HP;Notebook;13.3;Intel Core M 6Y54 1.1GHz;8GB;256GB SSD;Intel HD Graphics 515;Windows 10;1.16kg;1699.00
+Dell;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;AMD Radeon R5 M315;Windows 7;2.24kg;769.15
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;2.1kg;429.00
+HP;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;8GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.16kg;1969.00
+Lenovo;2 in 1 Convertible;10.1;Intel Atom x5-Z8550 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics 400;Android;0.69kg;549.00
+Dell;Ultrabook;13.3;Intel Core i7 7560U 2.4GHz;8GB;256GB SSD;Intel Iris Plus Graphics 640;Windows 10;1.23kg;1379.00
+Lenovo;Gaming;17.3;Intel Core i7 6820HK 2.7GHz;16GB;256GB SSD +  1.0TB Hybrid;Nvidia GeForce GTX 980M;Windows 10;4.6kg;2749.99
+Razer;Ultrabook;12.5;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.25kg;1029.00
+Toshiba;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.05kg;2226.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;3.52kg;1312.49
+Vero;Notebook;13.3;Intel Atom X5-Z8350 1.44GHz;4GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.35kg;196.00
+HP;Notebook;13.3;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.16kg;1690.00
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.43kg;1513.00
+Dell;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Linux;2.09kg;523.63
+Asus;Notebook;15.6;Intel Core i3 7100U 2.4GHz;4GB;1TB HDD;Intel HD Graphics 620;Windows 10;2kg;435.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;1669.00
+Lenovo;2 in 1 Convertible;10.1;Intel Atom x5-Z8550 1.44GHz;4GB;64GB Flash Storage;Intel HD Graphics 400;Windows 10;0.69kg;479.00
+HP;Ultrabook;12.5;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.26kg;1895.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;No OS;2.4kg;989.00
+HP;Gaming;17.3;Intel Core i5 6300HQ 2.3GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;3.35kg;1129.00
+HP;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;2TB HDD;Intel HD Graphics 620;Windows 10;2.04kg;629.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6600U 2.6GHz;8GB;512GB SSD;Nvidia Quadro M500M;Windows 7;1.8kg;2050.38
+Asus;Notebook;14;Intel Celeron Dual Core N3350 1.1GHz;4GB;32GB Flash Storage;Intel HD Graphics 500;Windows 10;1.5kg;278.00
+HP;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.84kg;752.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;2.23kg;616.00
+Lenovo;Notebook;15.6;Intel Core i7 6500U 2.5GHz;16GB;1.0TB Hybrid;AMD Radeon R7 M360;Windows 10;2.5kg;1099.00
+HP;Workstation;17.3;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD;Nvidia Quadro M3000M;Windows 7;3kg;3949.40
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;AMD Radeon R7 M445;Windows 10;2.5kg;784.00
+MSI;Gaming;17.3;Intel Core i7 6820HQ 2.7GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;3.78kg;2399.00
+HP;Ultrabook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.88kg;2171.72
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6600U 2.6GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;2.8kg;2440.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.4kg;1142.80
+HP;2 in 1 Convertible;13.3;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.48kg;1629.00
+HP;Workstation;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD;Nvidia Quadro M1000M;Windows 7;2.59kg;2229.00
+HP;2 in 1 Convertible;13.3;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.48kg;1799.00
+HP;Workstation;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD;Nvidia Quadro M1000M;Windows 7;2.0kg;1899.00
+HP;Ultrabook;12.5;Intel Core i7 6500U 2.50GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.26kg;2296.95
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2.18kg;1009.90
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.88kg;1579.00
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.27kg;2339.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;1TB HDD;Intel HD Graphics 520;No OS;1.9kg;339.00
+HP;Notebook;15.6;AMD E-Series 7110 1.8GHz;4GB;500GB HDD;AMD Radeon R2 Graphics;Windows 10;1.86kg;297.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;1TB HDD;AMD Radeon R5 M330;No OS;2.32kg;599.00
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050Ti;Windows 10;2.62kg;1199.00
+Dell;Notebook;15.6;Intel Core i5 6300HQ 2.3GHz;8GB;256GB SSD;Nvidia GeForce 960M;Windows 10;2.04kg;2250.68
+HP;Notebook;15.6;AMD A6-Series A6-9220 2.5GHz;4GB;256GB SSD;AMD Radeon 520;Windows 10;1.91kg;478.89
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.7kg;1492.80
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;12GB;512GB SSD;Intel HD Graphics 520;Windows 7;1.4kg;2299.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;8GB;1.0TB Hybrid;AMD Radeon R5 M330;Windows 10;2.5kg;788.49
+HP;2 in 1 Convertible;13.3;Intel Core i7 6600U 2.6GHz;8GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.48kg;2041.00
+Lenovo;Ultrabook;14;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.7kg;1499.00
+MSI;Gaming;14;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 970M;Windows 10;1.7kg;1769.00
+HP;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.62kg;899.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2.0GHz;8GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.2kg;459.00
+HP;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;2.1kg;476.99
+Dell;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.62kg;1498.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.95kg;1390.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Nvidia GeForce 920MX ;Windows 10;2.2kg;468.00
+HP;Notebook;14;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.44kg;249.00
+MSI;Gaming;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;839.00
+HP;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.96kg;679.00
+HP;Notebook;15.6;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;2.1kg;1159.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;369.00
+Lenovo;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;No OS;2.1kg;398.00
+Lenovo;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;Nvidia GeForce 940MX;No OS;2.2kg;709.00
+Asus;Notebook;14;Intel Core i3 7100U 2.4GHz;4GB;256GB SSD;Intel HD Graphics 620;Windows 10;2kg;769.00
+Lenovo;Notebook;15.6;Intel Core i7 6500U 2.5GHz;4GB;1.0TB Hybrid;Intel HD Graphics 520;Windows 7;2.32kg;825.00
+Lenovo;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;512GB SSD;Nvidia GeForce GTX 960;Windows 10;3.31kg;1305.00
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 970M;Windows 10;1.91kg;2153.37
+HP;Notebook;15.6;Intel Core i3 6100U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.07kg;650.00
+Lenovo;2 in 1 Convertible;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.36kg;1637.00
+Lenovo;Ultrabook;15.6;Intel Core i7 7500U 2.7GHz;6GB;256GB SSD;Nvidia GeForce 920M;Windows 10;1.54kg;831.00
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Nvidia GeForce GT 940MX;Linux;1.98kg;895.01
+Acer;Notebook;15.6;Intel Celeron Dual Core N3350 2GHz;4GB;500GB HDD;Intel HD Graphics 500;Windows 10;2.1kg;333.00
+HP;Notebook;15.6;Intel Core i7 6700HQ 2.6GHz;6GB;1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.18kg;799.00
+Asus;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.591kg;909.00
+Dell;2 in 1 Convertible;15.6;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;2.09kg;1179.00
+Acer;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;256GB SSD;Nvidia GeForce 940MX;Windows 10;2.23kg;691.00
+Dell;Ultrabook;13.3;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Linux;1.23kg;1099.00
+Acer;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;4.2kg;2599.00
+Lenovo;Gaming;15.6;Intel Core i5 7300HQ 2.5GHz;8GB;1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.4kg;819.00
+Samsung;2 in 1 Convertible;12.3;Samsung Cortex A72&A53 2.0GHz;4GB;32GB Flash Storage;ARM Mali T860 MP4;Chrome OS;1.15kg;659.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.86kg;485.00
+Apple;Ultrabook;12;Intel Core M 1.1GHz;8GB;256GB Flash Storage;Intel HD Graphics 5300;Mac OS X;0.920kg;1163.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.6kg;1199.00
+HP;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;12GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.21kg;1327.00
+Lenovo;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;AMD Radeon R5 M430;No OS;1.9kg;368.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;512GB SSD +  1TB HDD;Nvidia GeForce GTX 980M;Windows 10;4.3kg;2150.00
+Acer;Notebook;15.6;Intel Celeron Dual Core N3350 2GHz;4GB;1TB HDD;Intel HD Graphics 500;Linux;2.1kg;272.00
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.43kg;2048.90
+Dell;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;128GB SSD;AMD Radeon R7 M440;Windows 10;2.3kg;499.00
+Lenovo;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;500GB HDD;Nvidia GeForce 920MX;No OS;2.2kg;629.00
+Dell;2 in 1 Convertible;15.6;Intel Core i7 8550U 1.8GHz;16GB;512GB SSD;Intel UHD Graphics 620;Windows 10;2kg;1285.00
+Dell;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.2kg;2680.00
+Asus;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.2kg;1169.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;AMD Radeon R7 M445;Windows 10;2.36kg;889.00
+HP;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.91kg;579.00
+Lenovo;Notebook;15.6;AMD E-Series 9000 2.2GHz;4GB;500GB HDD;AMD Radeon R2 Graphics;Windows 10;2.2kg;299.00
+Acer;Notebook;17.3;Intel Core i3 6006U 2.0GHz;8GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;3.3kg;629.00
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.2kg;2449.00
+Apple;Ultrabook;12;Intel Core M 1.2GHz;8GB;512GB Flash Storage;Intel HD Graphics 515;Mac OS X;0.920kg;1279.00
+Asus;Notebook;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.2kg;1749.00
+MSI;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.43kg;1948.99
+Dell;2 in 1 Convertible;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;2.191kg;999.00
+Asus;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.9kg;1949.00
+Acer;Netbook;11.6;Intel Celeron Dual Core 3205U 1.5GHz;2GB;32GB SSD;Intel HD Graphics;Chrome OS;1.3kg;174.00
+Acer;Notebook;17.3;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Nvidia GeForce 940MX;Windows 10;3.3kg;598.00
+Lenovo;Notebook;17.3;Intel Core i5 7200U 2.5GHz;8GB;1TB HDD;Intel HD Graphics 620;No OS;2.8kg;539.00
+Lenovo;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960<U+039C>;Windows 10;2.6kg;1272.00
+Acer;2 in 1 Convertible;14;Intel Core i7 7Y75 1.3GHz;8GB;256GB SSD;Intel HD Graphics 615;Windows 10;1.2kg;1149.00
+Lenovo;Notebook;15.6;Intel Core i7 6600U 2.6GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;2.3kg;1529.00
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.2kg;1476.11
+HP;Notebook;15.6;AMD A12-Series 9720P 2.7GHz;6GB;1TB HDD;AMD Radeon 530;Windows 10;2.1kg;529.00
+Dell;Ultrabook;12.5;Intel Core i5 6300U 2.4GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.26kg;1713.37
+Dell;2 in 1 Convertible;15;Intel Core i3 7100U 2.4GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;2.08kg;509.00
+Asus;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;1TB HDD;Intel HD Graphics 405;Windows 10;2.65kg;309.00
+Dell;Ultrabook;13.3;Intel Core i7 7500U 2.7GHz;8GB;256GB SSD;Intel HD Graphics 620;Windows 10;1.29kg;1477.00
+Dell;Notebook;15.6;Intel Core i5 7200U 2.5GHz;4GB;1TB HDD;Intel HD Graphics 520;Linux;2.18kg;521.86
+Lenovo;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.6kg;1029.00
+MSI;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 1050;Windows 10;2.2kg;1149.00
+Lenovo;Netbook;12.5;Intel Core i7 6500U 2.50GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1650.00
+Razer;Gaming;14;Intel Core i7 7700HQ 2.8GHz;16GB;1TB SSD;Nvidia GeForce GTX 1060;Windows 10;1.95kg;3499.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;8GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;469.01
+MSI;Gaming;17.3;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1060;Windows 10;2.7kg;1598.00
+Apple;Ultrabook;11.6;Intel Core i5 1.6GHz;4GB;256GB Flash Storage;Intel HD Graphics 6000;Mac OS X;1.08kg;959.00
+HP;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;1TB HDD;Intel HD Graphics 520;Windows 10;2.1kg;478.00
+HP;Ultrabook;14;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.54kg;2198.19
+Dell;Notebook;15.6;Intel Core i5 6200U 2.3GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 7;2.24kg;737.00
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.3kg;1169.00
+Lenovo;Notebook;13.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Intel HD Graphics 620;Windows 10;1.4kg;1499.00
+Lenovo;Notebook;15.6;AMD A12-Series 9720P 3.6GHz;6GB;256GB SSD;AMD Radeon 530;Windows 10;2.2kg;597.57
+Asus;Ultrabook;13.3;Intel Core i7 6500U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.45kg;1280.00
+Acer;Notebook;15.6;Intel Core i3 6006U 2.0GHz;4GB;500GB HDD;Intel HD Graphics 520;Linux;2.4kg;361.80
+Dell;2 in 1 Convertible;17.3;Intel Core i7 7500U 2.7GHz;16GB;512GB SSD;Nvidia GeForce 940MX;Windows 10;2.77kg;1799.00
+HP;Notebook;14;Intel Core i5 6200U 2.3GHz;4GB;256GB SSD;Intel HD Graphics 520;Windows 7;1.54kg;1099.99
+Asus;Gaming;15.6;Intel Core i7 7700HQ 2.8GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1050 Ti;Windows 10;2.5kg;1600.00
+Dell;Notebook;14;Intel Core i5 7200U 2.5GHz;4GB;500GB HDD;Intel HD Graphics 620;Windows 10;1.6kg;875.00
+Asus;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;16GB;256GB SSD +  1TB HDD;Nvidia GeForce GTX 1070;Windows 10;2.34kg;2325.00
+Lenovo;Notebook;15.6;Intel Core i5 7200U 2.5GHz;8GB;256GB SSD;Intel HD Graphics 620;No OS;2.3kg;573.00
+Dell;2 in 1 Convertible;13.3;Intel Core i5 7Y54 1.2GHz;8GB;256GB SSD;Intel HD Graphics 615;Windows 10;1.24kg;1813.00
+Dell;Notebook;15.6;Intel Pentium Quad Core N3710 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Linux;2.2kg;324.00
+HP;Notebook;15.6;AMD A6-Series 9220 2.5GHz;4GB;500GB HDD;AMD Radeon R4 Graphics;Windows 10;1.86kg;399.00
+Lenovo;Notebook;15.6;Intel Core i3 6100U 2.3GHz;6GB;128GB SSD;Nvidia GeForce 920MX;Windows 10;2.4kg;569.00
+Lenovo;Notebook;14;Intel Core i5 6200U 2.3GHz;8GB;256GB SSD;Intel HD Graphics 520;Windows 10;1.9kg;1072.00
+Dell;Notebook;15.6;Intel Pentium Quad Core N3700 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;443.99
+Asus;Notebook;15.6;Intel Celeron Dual Core N3350 1.1GHz;4GB;1TB HDD;Intel HD Graphics 500;Windows 10;2kg;339.00
+Asus;Gaming;17.3;Intel Core i7 6700HQ 2.6GHz;16GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 970M;Windows 10;4.0kg;1900.00
+Dell;Notebook;15.6;Intel Core i3 6006U 2GHz;4GB;500GB HDD;Intel HD Graphics 520;Windows 10;2.29kg;490.00
+Lenovo;Notebook;15.6;Intel Core i7 6500U 2.5GHz;8GB;1.0TB Hybrid;AMD Radeon R5 M330;Windows 7;2.32kg;895.00
+MSI;Gaming;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;128GB SSD +  1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.4kg;1229.00
+Lenovo;2 in 1 Convertible;14;Intel Core i5 6200U 2.3GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;833.01
+Asus;Ultrabook;13.3;Intel Core M 6Y30 0.9GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;1.2kg;729.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;459.00
+Acer;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics 400;Linux;2.4kg;289.00
+Dell;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;2GB;500GB HDD;Intel HD Graphics;Windows 10;2.20kg;379.00
+Lenovo;Notebook;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.6kg;899.00
+HP;Notebook;15.6;AMD A9-Series 9410 2.9GHz;6GB;1.0TB Hybrid;AMD Radeon R7 M440;Windows 10;2.04kg;549.99
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R5 M430;Linux;2.3kg;805.99
+HP;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.17kg;209.00
+Asus;Notebook;15.6;Intel Core i7 6500U 2.5GHz;4GB;500GB HDD;Nvidia GeForce 920M;Windows 10;2.2kg;720.32
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6500U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;638.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1499.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3050 1.6GHz;2GB;64GB Flash Storage;Intel HD Graphics;Windows 10;1.5kg;229.00
+HP;Notebook;15.6;Intel Core i7 6500U 2.5GHz;6GB;1TB HDD;AMD Radeon R5 M330;Windows 10;2.19kg;764.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;369.00
+Asus;Ultrabook;13.3;Intel Core M 6Y30 0.9GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;1.2kg;729.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;459.00
+Acer;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics 400;Linux;2.4kg;289.00
+Dell;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;2GB;500GB HDD;Intel HD Graphics;Windows 10;2.20kg;379.00
+Lenovo;Notebook;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.6kg;899.00
+HP;Notebook;15.6;AMD A9-Series 9410 2.9GHz;6GB;1.0TB Hybrid;AMD Radeon R7 M440;Windows 10;2.04kg;549.99
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R5 M430;Linux;2.3kg;805.99
+HP;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.17kg;209.00
+Asus;Notebook;15.6;Intel Core i7 6500U 2.5GHz;4GB;500GB HDD;Nvidia GeForce 920M;Windows 10;2.2kg;720.32
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6500U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;638.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1499.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3050 1.6GHz;2GB;64GB Flash Storage;Intel HD Graphics;Windows 10;1.5kg;229.00
+HP;Notebook;15.6;Intel Core i7 6500U 2.5GHz;6GB;1TB HDD;AMD Radeon R5 M330;Windows 10;2.19kg;764.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;369.00
+Asus;Ultrabook;13.3;Intel Core M 6Y30 0.9GHz;8GB;512GB SSD;Intel HD Graphics 515;Windows 10;1.2kg;729.00
+Dell;Notebook;15.6;Intel Core i3 7100U 2.4GHz;6GB;1TB HDD;Intel HD Graphics 620;Windows 10;2.3kg;459.00
+Acer;Notebook;15.6;Intel Celeron Dual Core N3060 1.6GHz;4GB;500GB HDD;Intel HD Graphics 400;Linux;2.4kg;289.00
+Dell;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;2GB;500GB HDD;Intel HD Graphics;Windows 10;2.20kg;379.00
+Lenovo;Notebook;15.6;Intel Core i7 6700HQ 2.6GHz;8GB;1TB HDD;Nvidia GeForce GTX 960M;Windows 10;2.6kg;899.00
+HP;Notebook;15.6;AMD A9-Series 9410 2.9GHz;6GB;1.0TB Hybrid;AMD Radeon R7 M440;Windows 10;2.04kg;549.99
+Dell;Notebook;15.6;Intel Core i7 7500U 2.7GHz;8GB;1TB HDD;AMD Radeon R5 M430;Linux;2.3kg;805.99
+HP;Netbook;11.6;Intel Celeron Dual Core N3060 1.6GHz;2GB;32GB Flash Storage;Intel HD Graphics 400;Windows 10;1.17kg;209.00
+Asus;Notebook;15.6;Intel Core i7 6500U 2.5GHz;4GB;500GB HDD;Nvidia GeForce 920M;Windows 10;2.2kg;720.32
+Lenovo;2 in 1 Convertible;14;Intel Core i7 6500U 2.5GHz;4GB;128GB SSD;Intel HD Graphics 520;Windows 10;1.8kg;638.00
+Lenovo;2 in 1 Convertible;13.3;Intel Core i7 6500U 2.5GHz;16GB;512GB SSD;Intel HD Graphics 520;Windows 10;1.3kg;1499.00
+Lenovo;Notebook;14;Intel Celeron Dual Core N3050 1.6GHz;2GB;64GB Flash Storage;Intel HD Graphics;Windows 10;1.5kg;229.00
+HP;Notebook;15.6;Intel Core i7 6500U 2.5GHz;6GB;1TB HDD;AMD Radeon R5 M330;Windows 10;2.19kg;764.00
+Asus;Notebook;15.6;Intel Celeron Dual Core N3050 1.6GHz;4GB;500GB HDD;Intel HD Graphics;Windows 10;2.2kg;369.00
