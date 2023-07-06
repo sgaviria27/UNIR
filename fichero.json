@@ -1,5 +1,5 @@
-[{"alumno":"Sebastian","nota":9.09,"ranking":10},
-{"alumno":"Ingrid","nota":10,"ranking":1},
+[{"alumno":"Sebastian","nota":8.09,"ranking":10},
+{"alumno":"Ingrid","nota":9,"ranking":1},
 {"alumno":"Juan","nota":7,"ranking":20},
 {"alumno":"Jose","nota":7.02,"ranking":18},
 {"alumno":"Daniel","nota":6,"ranking":25},
